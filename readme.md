@@ -1,1 +1,1 @@
-My array practicing playground
+My array playground

@@ -1,1 +1,1 @@
-My array playground
+arrays exercises
